@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omkarkulkarni7/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/omkarkulkarni7/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://omkar-kulkarni.vercel.app/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/Fk6DzHO.png"/></a>
+  <a href="https://omkar-kulkarni.vercel.app/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendService/portfolio.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:kulkarniomkar2003@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/jUWcUV1.png"/></a>
+  <a href="mailto:kulkarniomkar2003@gmail.com"><img width="32px" alt="Email" title="Email" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg"/></a>
 </p>
 
 <br/>
@@ -38,17 +38,16 @@
 ### 🧰 Frameworks and Libraries
 <p>
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
+    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white">
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 <p>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
-    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white">
 </p>
 
 ## 📊 GitHub Stats
@@ -71,7 +70,7 @@
         <h3 align="center">WealthWise</h3>
         <div align="center">
           <a href="https://wealthwise-frontend.vercel.app" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omkarkulkarni7&repo=Wealthwise_Frontend&theme=tokyonight" width="100%" alt="WealthWise Frontend"/>
+            <img src="https://raw.githubusercontent.com/Omkarkulkarni7/Omkarkulkarni7/main/assets/wealthwise.png" width="100%" alt="WealthWise Frontend" onerror="this.onerror=null;this.src='https://camo.githubusercontent.com/a98c011859fe00b5adc89c718802f0bdc27dd6fce8cf45be42716ff52a24b7ef/68747470733a2f2f64756d6d79696d6167652e636f6d2f3730307834303026746578743d5765616c74687769736526636f6c6f723d366366266261636b67726f756e643d323032383364';"/>
           </a>
           <br><br>
           <p>
@@ -86,7 +85,7 @@
         <h3 align="center">Safety Saarthi</h3>
         <div align="center">
           <a href="https://www.safetysaarthi.com" target="_blank">
-            <img src="https://dummyimage.com/600x400/2b2b/fff&text=Safety+Saarthi" width="100%" alt="Safety Saarthi"/>
+            <img src="https://raw.githubusercontent.com/Omkarkulkarni7/Omkarkulkarni7/main/assets/safetysaarthi.png" width="100%" alt="Safety Saarthi" onerror="this.onerror=null;this.src='https://camo.githubusercontent.com/0d64550e976253a279dc107744d93b7c1dda6351c641c0d73e7ed97cbf3bbf93/68747470733a2f2f64756d6d79696d6167652e636f6d2f3730307834303026746578743d536166657479253230536161727468692b266261636b67726f756e643d4444303033312663';"/>
           </a>
           <br><br>
           <p>
@@ -113,9 +112,6 @@
   • 3rd Runner-Up, Impetus Competition •
   • AlphaByte 1.0 Organizer •
 </p>
-
-<!-- Activity graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=Omkarkulkarni7&theme=react-dark" width="100%">
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
