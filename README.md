@@ -1,103 +1,117 @@
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Omkar Kulkarni's profile!
+</h2>
 
-# 👋 Hello folks, I'm Omkar Kulkarni!
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20developer;Machine%20Learning%20enthusiast;AWS%20Cloud%20practitioner;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarkulkarni7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://omkar-kulkarni.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulkarniomkar2003@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/omkarkulkarni7/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://omkar-kulkarni.vercel.app/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendService/portfolio.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:kulkarniomkar2003@gmail.com"><img width="32px" alt="Email" title="Email" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg"/></a>
+</p>
 
-## 🚀 About Me
-I'm a Computer Science Engineering graduate (2025) from Pimpri Chinchwad College of Engineering, Pune. I'm passionate about building innovative solutions that solve real-world problems. My interests include full-stack development, machine learning, and cloud technologies.
+<br/>
 
-## 💻 Tech Stack
+<p align="center">
+  <a href="https://github.com/Omkarkulkarni7?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Omkarkulkarni7"/></a>
+  <a href="https://github.com/Omkarkulkarni7?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Omkarkulkarni7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## 🛠️ My Favorite Tools
 
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+### 👨‍💻 Programming Languages
+<p>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+</p>
 
-## 🔥 Featured Projects
+### 🧰 Frameworks and Libraries
+<p>
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
+    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white">
+</p>
 
-### WealthWise – Stock Investment & Banking Platform
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-A full-stack platform that enables users to track stocks, manage investments, and handle digital banking in one place.
-
-- Live stock tracking and portfolio management with real-time market data
-- Stock trading with simulated bank accounts and real-time balance updates
-- Peer-to-peer money transfers similar to UPI apps
-
-[🔗 Live Demo](https://wealthwise-frontend.vercel.app) | [💻 Source Code - Frontend](https://github.com/Omkarkulkarni7/Wealthwise_Frontend) | [💻 Source Code - Backend](https://github.com/Omkarkulkarni7/Wealthwise_Backend)
-
-### Hybrid Deep Learning for Land Use Classification
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-A land use classification model achieving 98% accuracy using advanced ML techniques.
-
-- Used Inception-V3 architecture for deep feature extraction
-- Enhanced feature representation using Gray Level Co-Occurrence Matrix (GLCM)
-- Applied multiple ML algorithms including LMT, Random Forest & Random Tree
-
-[📊 View Code](https://colab.research.google.com/drive/1532X3PeFVfShlMcUPwuiNnYuLLHsE6Wk?usp=sharing) | [🎬 Video Demo](https://www.youtube.com/watch?v=d4Ta2HHlDxE&feature=youtu.be)
-
-### Safety Saarthi Organization Website
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-A professional website for a Fire Systems Installation Company using Angular 18.
-
-- Designed with Figma for professional UI/UX
-- Deployed using AWS (S3, CloudFront, Route53, Lambda)
-- Showcases company projects, customer reviews, and product information
-
-[🔗 Live Website](https://www.safetysaarthi.com) | [💻 Figma Design](https://www.figma.com/design/TCgioYBQKzKAwzyLCZxwVK/NFPA-Home_Page?node-id=0-1&t=p9F5miEzRqCv9rIQ-1)
-
-## 👨‍💻 Work Experience
-
-### WordPress Developer Intern
-**WisdmLabs** (Jan 2025 - Present)
-- Training in Linux commands, PHP, and WordPress development
-- Hands-on experience in WordPress customization and plugin development
-
-### Software Developer Intern
-**ScriptAnalytica Technologies** (July 2024 - August 2024)
-- Implemented OCR solution for scanned books
-- Developed HR Management System using Agile methodologies
-
-## 🏆 Achievements
-- Organized AlphaByte 1.0 National Level Hackathon (25,000+ impressions, 1,000+ participants)
-- Won Avishar '24 hosted by Pune University
-- 3rd Runner-Up in the Impetus Competition hosted by PICT
-- GDSC Web-Head (2023-24)
+### 🗄️ Databases and Cloud Hosting
+<p>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
+</p>
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkarkulkarni7&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omkarkulkarni7&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarkulkarni7&layout=compact&theme=tokyonight" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarkulkarni7&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarkulkarni7&theme=tokyonight" alt="Omkarkulkarni7" />
+</div>
 
-## 📫 Connect With Me
+## 🔥 Highlighted Projects
 
-Feel free to reach out for collaborations or just a chat!
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">WealthWise</h3>
+        <div align="center">
+          <a href="https://wealthwise-frontend.vercel.app" target="_blank">
+            <img src="https://raw.githubusercontent.com/Omkarkulkarni7/Omkarkulkarni7/main/assets/wealthwise.png" width="100%" alt="WealthWise Frontend" onerror="this.onerror=null;this.src='https://camo.githubusercontent.com/a98c011859fe00b5adc89c718802f0bdc27dd6fce8cf45be42716ff52a24b7ef/68747470733a2f2f64756d6d79696d6167652e636f6d2f3730307834303026746578743d5765616c74687769736526636f6c6f723d366366266261636b67726f756e643d323032383364';"/>
+          </a>
+          <br><br>
+          <p>
+            <a href="https://wealthwise-frontend.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+            </a>
+          </p>
+          <p><strong>React, Express, PostgreSQL</strong> — Stock trading and banking platform with real-time market data</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Safety Saarthi</h3>
+        <div align="center">
+          <a href="https://www.safetysaarthi.com" target="_blank">
+            <img src="https://raw.githubusercontent.com/Omkarkulkarni7/Omkarkulkarni7/main/assets/safetysaarthi.png" width="100%" alt="Safety Saarthi" onerror="this.onerror=null;this.src='https://camo.githubusercontent.com/0d64550e976253a279dc107744d93b7c1dda6351c641c0d73e7ed97cbf3bbf93/68747470733a2f2f64756d6d79696d6167652e636f6d2f3730307834303026746578743d536166657479253230536161727468692b266261636b67726f756e643d4444303033312663';"/>
+          </a>
+          <br><br>
+          <p>
+            <a href="https://www.safetysaarthi.com" target="_blank">
+              <img src="https://img.shields.io/badge/Live-Website-blue?style=for-the-badge&logo=angular"/>
+            </a>
+          </p>
+          <p><strong>Angular, AWS</strong> — Professional website for a Fire Systems Installation Company</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 📧 Email: kulkarniomkar2003@gmail.com
-- 💼 LinkedIn: [Omkar Kulkarni](https://www.linkedin.com/in/omkarkulkarni7/)
-- 🌐 Portfolio: [Check out my work](https://omkar-kulkarni.vercel.app/)
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omkarkulkarni7&theme=onedark&column=7" />
+</div>
+
+<p align="center">
+  • GDSC Web-Head (2023-24) •
+  • Winner, Avishar '24 •
+  • 3rd Runner-Up, Impetus Competition •
+  • AlphaByte 1.0 Organizer •
+</p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
